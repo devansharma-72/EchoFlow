@@ -39,7 +39,7 @@ npm -v
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/your-username/EchoFlow.git
+git clone https://github.com/devansharma-72/EchoFlow.git
 cd EchoFlow
 ```
 
